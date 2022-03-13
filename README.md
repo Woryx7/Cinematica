@@ -1,2 +1,2 @@
 # Cinematica
-It is a project to apply a physics engine, namely cinematic, while learning how to export and read data into databases, and generate graphics from it.
+This repository is a project in which I create a small cinematics engine for displayin a parabolic motion shot. As of right now it can simulate any shot, however I will improve the screen to scale large shots so that the projectile will not get outside bounds.
